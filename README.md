@@ -25,8 +25,7 @@ TDMDock container SHOULD NOT be left running all the time. It does put extra loa
 
 
 
-
-
+My thanks go to:
 
 https://github.com/SirGoodenough/TDMDock
 https://zorruno.com/w/TDMDocker
@@ -34,3 +33,4 @@ https://github.com/jlesage/docker-baseimage-gui
 https://github.com/jziolkowski/tdm
 https://github.com/arendst/Tasmota
 https://tasmota.github.io/docs/
+
