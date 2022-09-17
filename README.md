@@ -1,4 +1,7 @@
-# TDM
+# Tasmota Device Manager
+
+At Moment the best featured Management GUI for Tasmota Devices, but Project has been abandon.
+
 Tasmota Device Manager in Docker Container
 
 - autodiscovery of Tasmota devices (even if they use custom FullTopics)
@@ -62,3 +65,4 @@ https://github.com/arendst/Tasmota
 
 https://tasmota.github.io/docs/
 
+For Mobile Devices i recommend Tasmota Remota by features to control and for Installation Tasmota Control
