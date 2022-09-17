@@ -24,6 +24,8 @@ TDMDock container SHOULD NOT be left running all the time. It does put extra loa
 To create the Docker will take a little time. 
 Image will be big with 1.2 GB
 
+I use a MQTT Broker on another Server!
+
 <img width="973" alt="image" src="https://user-images.githubusercontent.com/113388310/190870976-0685a2bc-1eaf-4137-969c-1c24308129cf.png">
 
 <img width="272" alt="image" src="https://user-images.githubusercontent.com/113388310/190870997-c65c4c3b-d128-43ea-8a96-5fc165ada1e7.png">
