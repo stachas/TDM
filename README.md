@@ -25,13 +25,7 @@ TDMDock container SHOULD NOT be left running all the time. It does put extra loa
 
 
 
-startapp.sh
----------------------------------------------------------------------------------------------------
-#!/bin/sh
-export HOME=/config
-export BROWSER=/usr/bin/firefox-esr
-exec /usr/bin/python3 /usr/local/bin/tdmgr.py
----------------------------------------------------------------------------------------------------
+
 
 
 https://github.com/SirGoodenough/TDMDock
