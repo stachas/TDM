@@ -21,28 +21,7 @@ You can also use a VNC client directly at port 5910
 Warning:
 TDMDock container SHOULD NOT be left running all the time. It does put extra load on the little ESP chips in the Tasmota Devices and on some, it will cause ghost switching and device reboots. It is best to load the container, do your business, then when you are done stop the container. The Terminal window that pops up while the container is running is for troubleshooting and to remind you that the container is running, helping you remember to turn it off when done using the container.
 
-docker-compose.yml
----------------------------------------------------------------------------------------------------
-version: "3.3"
-services:
-  tasmota-device-manager:
-    build: .
-#    context: .
-#    environment:
-#      CHOKIDAR_USERPOLLING: 'true'
-    volumes:
-      - /pub/appdata/docker/tdmgr/config:/config
-      - /etc/localtime:/etc/localtime:ro
-      - /etc/timezone:/etc/timezone:ro
-    dns: 192.168.0.5
-    ports:
-      - "5810:5800"
-      - "5910:5900"
-    container_name: tasmota-device-manager
-    hostname: tdmgr
-    restart: unless-stopped
-    network_mode: "bridge"
----------------------------------------------------------------------------------------------------
+
 
 dockerfile
 ---------------------------------------------------------------------------------------------------
