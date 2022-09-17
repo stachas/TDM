@@ -56,6 +56,8 @@ https://github.com/jlesage/docker-baseimage-gui
 
 https://github.com/jziolkowski/tdm
 
+https://forum.creationx.de/lexicon/index.php?entry/59-tasmota-device-manager-tasmota-geräte-bequem-per-grafischer-oberfläche-administr/
+
 https://github.com/arendst/Tasmota
 
 https://tasmota.github.io/docs/
