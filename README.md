@@ -24,6 +24,23 @@ TDMDock container SHOULD NOT be left running all the time. It does put extra loa
 To create the Docker will take a little time. 
 Image will be big with 1.2 GB
 
+<img width="973" alt="image" src="https://user-images.githubusercontent.com/113388310/190870976-0685a2bc-1eaf-4137-969c-1c24308129cf.png">
+
+<img width="272" alt="image" src="https://user-images.githubusercontent.com/113388310/190870997-c65c4c3b-d128-43ea-8a96-5fc165ada1e7.png">
+
+<img width="188" alt="image" src="https://user-images.githubusercontent.com/113388310/190871022-3942f449-8d33-4af4-8612-6f144af5799f.png">
+
+<img width="226" alt="image" src="https://user-images.githubusercontent.com/113388310/190871059-bee20cb6-9b67-43ef-9406-6a8b296eb948.png">
+
+<img width="159" alt="image" src="https://user-images.githubusercontent.com/113388310/190871119-151d5bf1-83c2-49ea-abe3-dc7034219c16.png">
+
+<img width="202" alt="image" src="https://user-images.githubusercontent.com/113388310/190871130-b33c1922-e9be-4665-84b3-eee4788e3a8f.png">
+
+<img width="167" alt="image" src="https://user-images.githubusercontent.com/113388310/190871141-4e09b2da-a104-4dab-81a3-9d326c86da91.png">
+
+<img width="961" alt="image" src="https://user-images.githubusercontent.com/113388310/190871161-e6b83a9e-f063-40bc-a5cd-78befbb6ba2f.png">
+
+
 
 
 My thanks go to:
